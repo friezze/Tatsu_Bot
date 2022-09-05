@@ -31,6 +31,8 @@ MarkupSafe==2.1.0
 maxminddb==2.2.0
 mido==1.2.9
 multidict==6.0.2
+packaging==21.3
+pip-review==1.2.0
 psutil==5.9.0
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
@@ -39,7 +41,7 @@ pycparser==2.21
 pycryptodomex==3.14.1
 Pygments==2.11.2
 pyOpenSSL==22.0.0
-pyparsing==3.0.7
+pyparsing==3.0.9
 PyRoxy==1.0b4
 PySocks==1.7.1
 pyTelegramBotAPI==4.7.0
