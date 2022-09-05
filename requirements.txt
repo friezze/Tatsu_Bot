@@ -42,7 +42,6 @@ pycryptodomex==3.14.1
 Pygments==2.11.2
 pyOpenSSL==22.0.0
 pyparsing==3.0.9
-PyRoxy==1.0b4
 PySocks==1.7.1
 pyTelegramBotAPI==4.7.0
 python-rtmidi==1.4.9
