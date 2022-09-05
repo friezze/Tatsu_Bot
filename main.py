@@ -40,7 +40,7 @@ async def on_shutdown(dispatcher):
 
 @dp.message_handler()
 async def echo(message: types.Message):
-    await message.answer(message.text)
+    await message.answer("нет ты, " + message.text)
 
 if __name__ == '__main__':
     logging.basicConfig(level=logging.INFO)
