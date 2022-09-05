@@ -47,7 +47,6 @@ pyTelegramBotAPI==4.7.0
 python-rtmidi==1.4.9
 python-socks==2.0.3
 pytz==2022.2.1
-pywin32==300
 requests==2.27.1
 requests-toolbelt==0.9.1
 rich==11.2.0
